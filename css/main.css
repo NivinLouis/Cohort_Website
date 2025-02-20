@@ -1496,7 +1496,7 @@ a {
     font-size: 16px;
   }
   .preloader-item img {
-    max-width: 80px;
+    max-width: 200px;
   }
   /* Global 575 END */
 
@@ -1552,7 +1552,7 @@ a {
     left: 25px;
   }
   .sidebar .logo img {
-    width: 40px;
+    width: 80px;
   }
   .sidebar .hamburger-button span:nth-last-child(n+2) {
     margin-bottom: 9px;
